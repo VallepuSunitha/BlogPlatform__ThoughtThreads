@@ -28,12 +28,19 @@ ThoughtThreads is a full-stack blog platform built using Django. It allows users
 thoughtthreads/
 │
 ├── blog/              # Blog app (posts, views, models)
+
 ├── users/             # User authentication app
+
 ├── templates/         # HTML templates
+
 ├── static/            # Static files (CSS, JS)
+
 ├── media/             # Uploaded files
+
 ├── db.sqlite3         # Database
+
 ├── manage.py
+
 └── requirements.txt
 
 
